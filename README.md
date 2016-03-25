@@ -1,5 +1,7 @@
 # score-desktop
 
+Score on real time to use on basketball leagues
+
 ![Imgur](http://i.imgur.com/FIYkdIu.png)
 
 ## To change team name
