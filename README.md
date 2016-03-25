@@ -17,4 +17,4 @@ Score on real time to use on basketball leagues
 
 ## Note:
 
-All request need secret header equal to [SCORE_DESKTOP_SECRET](blob/master/main.js#L106) environment variable.
+All request need secret header equal to [SCORE_DESKTOP_SECRET](main.js#L106) environment variable.
