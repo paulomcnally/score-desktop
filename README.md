@@ -18,3 +18,7 @@ Score on real time to use on basketball leagues
 ## Note:
 
 All request need secret header equal to [SCORE_DESKTOP_SECRET](main.js#L106) environment variable.
+
+## Font:
+
+http://www.dafont.com/score-board.font
