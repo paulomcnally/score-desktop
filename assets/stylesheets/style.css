@@ -1,0 +1,26 @@
+@font-face {
+   font-family: scoreboard;
+   src: url(../fonts/scoreboard.ttf);
+}
+
+html, body {
+    height: 100%;
+    background-color: black;
+}
+
+.fill-height {
+    min-height: 100%;
+    height:auto !important; /* cross-browser */
+    height: 100%; /* cross-browser */
+}
+
+span.points {
+   font-family: scoreboard;
+   font-size: 28em;
+   color: red;
+}
+
+span.team-name {
+  font-size: 5em;
+  color: white;
+}
